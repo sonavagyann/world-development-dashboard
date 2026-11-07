@@ -15,3 +15,4 @@ The dataset is synthetic. It was generated for the workshop and the values are a
 Data Studio
 
 ## Screenshots
+![Overview page](overview.png)
