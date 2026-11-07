@@ -16,6 +16,6 @@ Data Studio
 
 ## Screenshots
 ![Overview page](overview.png)
-![Regional Peer Benchmark page](regional peer benchmark.png)
-![Tech, Innovation and Future Readiness page](tech, innovation and future readiness.png)
-![General Interesting Insights page](general interesting insights.png)
+![Regional Peer Benchmark page](regional_peer_benchmark.png)
+![Tech, Innovation and Future Readiness page](tech_innovation_and_future_readiness.png)
+![General Interesting Insights page](general_interesting_insights.png)
